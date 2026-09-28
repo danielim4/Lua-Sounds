@@ -1,0 +1,32 @@
+# Artefatos de compilação C / Windows
+*.exe
+*.dll
+*.lib
+*.exp
+*.obj
+*.o
+*.pdb
+*.ilk
+*.manifest
+
+# Diretórios de compilação e IDEs
+build/
+bin/
+dist/
+.vs/
+*.vcxproj.user
+*.suo
+
+# Arquivos temporários e logs locais
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Conteúdo pessoal instalado/local
+sounds/*
+!sounds/.gitkeep
+
+# Configuração pessoal
+configs.lua
+!configs.example.lua
