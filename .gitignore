@@ -30,3 +30,4 @@ sounds/*
 # Configuração pessoal
 configs.lua
 !configs.example.lua
+AGENTS.md
